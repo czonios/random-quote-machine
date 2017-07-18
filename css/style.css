@@ -80,3 +80,45 @@ body {
   vertical-align: middle;
   text-align: center;
 }
+
+@media (max-width: 768px) {
+	
+    .text-header {
+        margin: 0;
+        padding: 12px;
+        background: #bbaa99;
+        border-radius: 50px 8px;
+    }
+    
+    .vert-text h1 {
+        padding: 0;
+        margin: 0;
+        font-size: 1.5em;
+        font-weight: 700;
+    }
+
+    .vert-text p {
+        padding: 0;
+        margin: 0;
+        margin-right: 15%;
+        font-size: 1em;
+        font-weight: 400;
+        font-style: italic;
+        text-align: right;
+    }
+    
+    .twitter-icon {
+        border: none;
+        margin: 6px;
+        border-radius: 50%;
+        display: inline-block;
+        font-size: 56px;
+        width: 56px;
+        height: 56px;
+        line-height: 136px;
+        vertical-align: middle;
+        text-align: center;
+    }
+
+     
+}
