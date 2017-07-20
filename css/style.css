@@ -16,7 +16,7 @@ body {
 .vert-text h1 {
   padding: 0;
   margin: 0;
-  font-size: 4em;
+  font-size: 2.5em;
   font-weight: 700;
 }
 
@@ -35,8 +35,6 @@ body {
   height: 100%;
   width: 100%;
   position: relative;
-  padding-left: 15%;
-  padding-right: 15%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -45,6 +43,8 @@ body {
 
 .text-header {
   margin: 0;
+  margin-left: 15%;
+  margin-right: 15%; 
   padding: 40px;
   background: #bbaa99;
   border-radius: 100px 15px;
