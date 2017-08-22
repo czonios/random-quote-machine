@@ -14,7 +14,7 @@ This web app generates random quotes by pressing the "New Quote" button. It allo
 
 
 
-###[https://czonios.github.io/random-quote-machine](https://czonios.github.io/random-quote-machine)
+## [https://czonios.github.io/random-quote-machine](https://czonios.github.io/random-quote-machine)
 
 Written and coded by [Christos Zonios](https://czonios.github.io).
 
