@@ -16,7 +16,7 @@ body {
 .vert-text h1 {
   padding: 0;
   margin: 0;
-  font-size: 2.5em;
+  font-size: 3vw;
   font-weight: 700;
 }
 
@@ -24,7 +24,7 @@ body {
   padding: 0;
   margin: 0;
   margin-right: 15%;
-  font-size: 2em;
+  font-size: 2.5vw;
   font-weight: 400;
   font-style: italic;
   text-align: right;
@@ -45,7 +45,7 @@ body {
   margin: 0;
   margin-left: 15%;
   margin-right: 15%; 
-  padding: 40px;
+  padding: 3%;
   background: #bbaa99;
   border-radius: 100px 15px;
 }
@@ -73,9 +73,9 @@ body {
   border: none;
   border-radius: 50%;
   display: inline-block;
-  font-size: 56px;
-  width: 56px;
-  height: 56px;
+  font-size: 5vh;
+  width: 5vw;
+  height: 5vw;
   line-height: 136px;
   vertical-align: middle;
   text-align: center;
@@ -88,23 +88,17 @@ body {
         padding: 12px;
         background: #bbaa99;
         border-radius: 50px 8px;
+        margin-left: 10px;
+        margin-right: 10px;
     }
     
     .vert-text h1 {
-        padding: 0;
-        margin: 0;
-        font-size: 1.5em;
+        font-size: 4.5vw;
         font-weight: 700;
     }
-
+    
     .vert-text p {
-        padding: 0;
-        margin: 0;
-        margin-right: 15%;
-        font-size: 1em;
-        font-weight: 400;
-        font-style: italic;
-        text-align: right;
+        font-size: 3.5vw;
     }
     
     .twitter-icon {
